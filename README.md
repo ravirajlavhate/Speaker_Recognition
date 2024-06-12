@@ -1,2 +1,2 @@
 # Speaker_Recognition
-we are team noob
+we are team noob.
